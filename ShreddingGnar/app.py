@@ -18,7 +18,6 @@ from flask import Flask, jsonify
 
 # reflect an existing database into a new model
 engine = create_engine("sqlite:///Resources/hawaii.sqlite")
-# measurement = base.classes.measurement
 
 # reflect the tables
 Base = automap_base()
