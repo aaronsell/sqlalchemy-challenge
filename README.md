@@ -1,0 +1,1 @@
+This project aims to analyze and explore the climate data of Hawaii stored in the SQLite database using Python and SQLAlchemy. This project provides a foundational understanding of how to work with databases, perform data analysis, and visualize results in Python.
